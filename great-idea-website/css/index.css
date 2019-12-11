@@ -64,3 +64,97 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav a {
+	display: inline-block;
+	width: 10%;
+	margin: 2%;
+	text-decoration: none;
+	color: gray;
+}
+
+header img {
+	display: inline-block;
+}
+
+.mainsection {
+	width: 90%;
+	margin: 0 auto;
+	padding: 35px 5px;
+}
+
+.circle-img {
+	display: inline-block;
+	position: absolute;
+  	top: 50%;
+  	transform: translateY(-50%);
+  	margin-left: 700px;
+}
+
+.slogan {
+	display: inline-block;
+	font-size: 80px;
+	text-align: center;
+	margin: 170px 0px 0px 300px;
+}
+
+button {
+	display: inline-block;
+	width: 180px; 
+	height: 35px;
+	margin: 10px 0px 100px 370px;
+	border: 1px solid black;
+	font-size: 20px;
+	background: white;
+}
+
+.features {
+	width: 90%;
+	margin: 0 auto;
+	padding: 35px 5px;
+}
+
+div.features-2 {
+	display: inline-block;
+	width: 47%;
+	margin: 1%;
+}
+
+.middle-img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto; 
+	width: 90%;
+}
+
+.services {
+	width: 90%;
+	margin: 0 auto;
+	padding: 35px 5px;
+}
+
+div.services-2 {
+	display: inline-block;
+	width: 30%;
+	margin: 1%;
+}
+
+.contact {
+	width: 90%;
+	margin: 0 auto;
+	padding: 35px 5px;
+}
+
+.phone-number {
+	display: inline-block;
+	margin: 3% 0% 0% 0%;
+}
+
+.email {
+	display: block;
+	margin: 3% 0% 3% 0%;
+}
+
+.copyright p {
+	text-align: center;
+}
