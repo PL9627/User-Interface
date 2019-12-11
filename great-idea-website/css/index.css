@@ -77,12 +77,10 @@ header img {
 	display: inline-block;
 }
 
-.section-one h1 {
-	display: inline-block;
+.slogan {
+	display: block;
 	font-size: 70px;
-	width: 275px;
 	text-align: center;
-	margin: 10% 0% 0% 20%;
 }
 
 button {
@@ -95,12 +93,8 @@ button {
 	background: white;
 }
 
-.section-one img {
+.section-1 img {
 	display: inline-block;
-	vertical-align: center;
-	width: 30%;
-	background-size: 80%;
-	margin-left: 60%;
 }
 
 .features {
